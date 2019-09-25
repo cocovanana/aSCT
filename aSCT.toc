@@ -1,0 +1,10 @@
+## Interface: 11302
+## Version: 1.0
+## Title: aSCT |cff1a9fc0Classic|r
+## Notes: Simple scrolling combat text!
+
+config.lua
+utils.lua
+top.lua
+core.lua
+init.lua
